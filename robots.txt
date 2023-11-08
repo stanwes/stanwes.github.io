@@ -1,0 +1,4 @@
+User-agent: Yandex
+Disallow: 
+Host: stanwes.github.io
+Sitemap: stanwes.github.io/sitemap.xml
