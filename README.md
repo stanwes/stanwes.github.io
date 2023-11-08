@@ -1,1 +1,1 @@
-# stanwes.github.io
+mywebsite.github.io
