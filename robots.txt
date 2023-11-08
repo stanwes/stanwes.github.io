@@ -1,4 +1,0 @@
-User-agent: Yandex
-Disallow: 
-Host: r90532xc.beget.tech
-Sitemap: http://r90532xc.beget.tech/sitemap.xml
